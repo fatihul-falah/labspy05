@@ -79,4 +79,4 @@ elif c.lower() == 'q':
 else:
         print("Pilih menu yang tersedia")
 ```
-![Chart]()
+![Chart](https://raw.githubusercontent.com/fatihul-falah/labspy05/master/flowchart.png)
